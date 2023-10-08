@@ -15,3 +15,6 @@ div {
 .img { 
     width: 300px; height: auto;
 }
+ p{
+    line-height: 1;
+}
